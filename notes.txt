@@ -1,0 +1,14 @@
+JSON REFERENCE
+https://api.nytimes.com/svc/search/v2/articlesearch.json?api-key=8437b363971849dea95b19598d4c8fcd&q=bacon
+
+LINK REFERENCE
+https://github.com/afhaque/NYTArticleSearch/blob/master/NYTCode.js
+
+AXIOS docs
+https://github.com/axios/axios
+
+NY TIMES API docs
+http://www.storybench.org/working-with-the-new-york-times-api-in-r/
+
+FORM ON SUBMIT article
+https://medium.com/@aghh1504/1-simple-react-todo-list-52186b62976b

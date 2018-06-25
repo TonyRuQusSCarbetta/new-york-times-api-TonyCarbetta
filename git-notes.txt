@@ -1,0 +1,27 @@
+To make a new branch:
+git checkout -b <new-branch-name-goes-here>
+
+To check which branch you are on:
+git status
+
+To add changes:
+git add .
+
+To commit changes:
+git commit -m "write your message here"
+
+To go back to master branch:
+git checkout master
+
+To get the latest version:
+git pull
+
+To merge branches:
+git merge master
+(for example if we are on a branch called Changes, we use git merge master & this will merge whatever is in master to Changes)
+
+This article fixed my error!
+https://blog.plover.com/prog/git-ff-error.html
+
+Another quick spot is
+www.ohshitgit.com
